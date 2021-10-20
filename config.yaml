@@ -69,7 +69,7 @@ params:
       - name: Home
         url: '#'
       - name: Blogs
-        url: blogs
+        url: blogs/self_intro
      # - name: Generic Blog
       #  url: blogs/ipsum
      # - name: Elements
@@ -84,10 +84,10 @@ params:
         subtitle: Self Introduction
         title: Eunice Liu's Biography
         url: blogs/self_intro
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Risk Return of DJIA Industrial Average
-        url: blogs/risk_return
+      - image: ust.jpg
+        subtitle: My Experience
+        title: Studies and Internships
+        url: blogs/exp
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna

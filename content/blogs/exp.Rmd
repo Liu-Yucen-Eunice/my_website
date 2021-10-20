@@ -1,0 +1,32 @@
+---
+categories:
+- ""
+- ""
+date: "2021-10-20"
+description: My studies and internships
+draft: false
+image: me.jpg
+keywords: ""
+slug: exp
+title: Eunice's experience
+---
+##Eunice's expereience
+
+##Studies
+**London Business School**
+*Masters in Financial Analysis*
+
+**Hong Kong University of Science and Technology**
+*BSc in Quantitative Finance*
+
+##Internsip Experience
+**CLSA**
+*Equity Research Intern*
+
+**FIDELITY INTERNATIONAL** 
+*Equity Research Associate Intern*
+
+**BNP PARIBAS WEALTH MANAGEMENT**
+*Investment Services Department*
+
+
