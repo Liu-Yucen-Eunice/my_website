@@ -90,8 +90,8 @@ params:
         url: blogs/exp
       - image: view1.jpg
         subtitle: R analysis
-        title: Climate Change
-        url: blogs/hwk2
+        title: GDP Components
+        url: blogs/hwk
       - image: view2.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
