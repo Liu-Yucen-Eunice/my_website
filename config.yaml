@@ -1,23 +1,22 @@
 baseURL: https://eunice-portfolio.netlify.app/
 languageCode: en-us
-title: Portfolio Website
+title: Eunice Liu
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Welcome to my website
     subtitle: |-
-      A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-      AND RELEASED UNDER THE CREATIVE COMMONS
+      London Business School MFA
     title: Hi, my name is Eunice Liu
   blog: {}
   contact:
     address:
       - city: London
-        country: UK
-        street: Great Street
-        title: Address
+        country: United Kingdom NW1 4SA
+        street: Regent's Park 
+        title: London Business School
     buttonClear: Clear
     buttonSend: Send message
     email:
@@ -25,7 +24,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (44) 123-4567 x1234
+      - phone: (44) 7409569257
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,56 +34,56 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Eunice Liu
     enable: yes
     quicklinks:
       - alt: HTML5 UP
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com #change to my own account
+     # - icon: fa-twitter
+      #  label: Twitter
+      #  url: https://www.twitter.com #change to my own account
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/euniceliu912/
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com
+        url: https://www.instagram.com/eunice_liu_/
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/Liu-Yucen-Eunice
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: https://www.linkedin.com/in/euniceliuyc/
   image: ''
   name: Your name
   navigation:
     button1:
-      - name: Get Started
-        url: blogs
-    button2:
-      - name: Log In
-        url: '#'
+      - name: My CV
+        url: https://drive.google.com/file/d/1YDirCy3PA_b47Q7Fh2MsLzUQQZWb3UnM/view?usp=sharing
+   # button2:
+    #  - name: Log In
+     #   url: '#'
     links:
       - name: Home
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+     # - name: Generic Blog
+      #  url: blogs/ipsum
+     # - name: Elements
+     #   url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
-        subtitle: I love lbs
-        title: About me
-        url: blogs/risk_return
+      - image: me.jpg
+        subtitle: Self Introduction
+        title: Eunice Liu's Biography
+        url: blogs/self_intro
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Risk Return of DJIA Industrial Average

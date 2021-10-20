@@ -1,0 +1,24 @@
+---
+categories:
+- ""
+- ""
+date: "2021-10-20"
+description: Something about me
+draft: false
+image: me.jpg
+keywords: ""
+slug: self_intro
+title: Eunice's Self-introduction
+---
+
+
+# About Myself
+
+I am **Eunice Liu** from [Jiangxi Province, China](https://en.wikipedia.org/wiki/Jiangxi). I studied in Hong Kong for my high school and undergraduate degree. I majored in quantitative finance at Hong Kong University of Science and Technology. 
+
+My hobbies are:
+
+- Biking
+- Music ![Music](listening-to-music-headphones.jpeg)
+- Singing
+- Cats
