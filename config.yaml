@@ -88,15 +88,15 @@ params:
         subtitle: My Experience
         title: Studies and Internships
         url: blogs/exp
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
-      - image: pic04.jpg
+      - image: view1.jpg
+        subtitle: R analysis
+        title: Climate Change
+        url: blogs/hwk2
+      - image: view2.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
         url: blogs/ipsum
-      - image: pic05.jpg
+      - image: view3.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
         url: blogs/ipsum
