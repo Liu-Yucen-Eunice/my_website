@@ -1,14 +1,14 @@
 ---
-categories:
-- ""
-- ""
-date: "2021-10-20"
+title: "Eunice's experience"
+date: '2021-10-20'
 description: My studies and internships
-draft: false
+draft: no
 image: ust.jpg
-keywords: ""
+keywords: ''
 slug: exp
-title: Eunice's experience
+categories:
+- ''
+- ''
 ---
 ##Eunice's expereience
 

@@ -1,14 +1,14 @@
 ---
-categories:
-- ""
-- ""
-date: "2021-10-20"
+title: "Eunice's Self-introduction"
+date: '2021-10-20'
 description: Something about me
-draft: false
+draft: no
 image: me.jpg
-keywords: ""
+keywords: ''
 slug: self_intro
-title: Eunice's Self-introduction
+categories:
+- ''
+- ''
 ---
 
 
