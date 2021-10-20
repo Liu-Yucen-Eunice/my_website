@@ -22,6 +22,9 @@ My hobbies are:
 - Music
 - Singing
 - Cats
+```{r image 1, echo = FALSE, out.width="60%"}
+knitr:: include_graphics("/img/cat.jpg", error = FALSE)
+```
 
 My favorite cartoon character is Duffy Family.
 [Linabell](linabell.jpg)
