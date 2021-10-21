@@ -107,6 +107,6 @@ params:
   two:
     buttonText: LBS Website
     enable: yes
-    subtitle: Go and check fantastic LBS website
+    subtitle: Go and check the fantastic LBS website!
     title: More info
     url: https://www.london.edu/
