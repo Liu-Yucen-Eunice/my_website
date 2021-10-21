@@ -105,8 +105,8 @@ params:
         title: Youth Risk Behavior Surveillance
         url: blogs/youth
   two:
-    buttonText: My R projects at LBS
+    buttonText: LBS Website
     enable: yes
-    subtitle: This website shows my R projects in data analytics course
+    subtitle: Go and check fantastic LBS website
     title: More info
-    url: blogs
+    url: https://www.london.edu/
