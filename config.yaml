@@ -93,20 +93,20 @@ params:
         title: Climate Change
         url: blogs/homework2
       - image: view2.jpg
-        subtitle: GDP components over time and among countries
-        title: R analysis
+        subtitle: R analysis
+        title: GDP components over time and among countries
         url: blogs/gdp
       - image: view3.jpg
         subtitle: R analysis
         title: TfL bike sharing
         url: blogs/bike
       - image: view4.jpg
-        subtitle: Youth Risk Behavior Surveillance
-        title: R analysis
+        subtitle: R analysis
+        title: Youth Risk Behavior Surveillance
         url: blogs/youth
   two:
     buttonText: My R projects at LBS
     enable: yes
     subtitle: This website shows my R projects in data analytics course
-    title: What's this?
+    title: More info
     url: blogs
