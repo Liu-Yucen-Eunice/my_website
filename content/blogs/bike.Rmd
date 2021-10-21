@@ -45,7 +45,7 @@ library(graphics)
 ```
 
 
-# Challenge 1: Excess rentals in TfL bike sharing
+# Excess rentals in TfL bike sharing
 
 Recall the TfL data on how many bikes were hired every single day. We can get the latest data by running the following
 
