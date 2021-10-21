@@ -68,7 +68,7 @@ params:
     links:
       - name: Home
         url: '#'
-      - name: Blogs
+      - name: Self-introduction
         url: blogs/self_intro
      # - name: Generic Blog
       #  url: blogs/ipsum
