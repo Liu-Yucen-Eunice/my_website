@@ -14,18 +14,29 @@ categories:
 
 # About Myself
 
-I am **Eunice Liu** from [Jiangxi Province, China](https://en.wikipedia.org/wiki/Jiangxi). I studied in Hong Kong for my high school and undergraduate degree. I majored in quantitative finance at Hong Kong University of Science and Technology. 
+I am **Eunice Liu** from [Jiangxi Province, China](https://en.wikipedia.org/wiki/Jiangxi). I am a MFA student at LBS. I studied in Hong Kong for my high school and undergraduate degree. I majored in quantitative finance at Hong Kong University of Science and Technology. I can speak Mandarin, Cantonese, and English. 
+
 
 My hobbies are:
 
 - Biking
+
+```{r image 1, echo = FALSE, out.width="60%"}
+knitr:: include_graphics("/img/hike.jpg", error = FALSE)
+```
+
 - Music
 - Singing
 - Cats
+
 ```{r image 1, echo = FALSE, out.width="60%"}
 knitr:: include_graphics("/img/cat.jpg", error = FALSE)
 ```
 
 My favorite cartoon character is Duffy Family.
-[Linabell](linabell.jpg)
+
+```{r image 1, echo = FALSE, out.width="60%"}
+knitr:: include_graphics("/img/linabell.jpg", error = FALSE)
+```
+
 

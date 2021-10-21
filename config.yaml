@@ -93,25 +93,20 @@ params:
         title: Climate Change
         url: blogs/homework2
       - image: view2.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+        subtitle: GDP components over time and among countries
+        title: R analysis
+        url: blogs/gdp
       - image: view3.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        subtitle: R analysis
+        title: TfL bike sharing
+        url: blogs/bike
+      - image: view4.jpg
+        subtitle: Youth Risk Behavior Surveillance
+        title: R analysis
+        url: blogs/youth
   two:
-    buttonText: Get Started
+    buttonText: My R projects at LBS
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: This website shows my R projects in data analytics course
+    title: What's this?
     url: blogs

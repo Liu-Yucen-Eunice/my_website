@@ -15,8 +15,16 @@ categories:
 -   **London Business School**
 *Masters in Financial Analysis*
 
+```{r image 1, echo = FALSE, out.width="60%"}
+knitr:: include_graphics("/img/lbs.jpg", error = FALSE)
+```
+
 -   **Hong Kong University of Science and Technology**
 *BSc in Quantitative Finance*
+
+```{r image 1, echo = FALSE, out.width="60%"}
+knitr:: include_graphics("/img/un.jpg", error = FALSE)
+```
 
 **Internship Experience**
 
@@ -33,6 +41,7 @@ categories:
 2019 Summer
 
 **LEADERSHIP & ACTIVITIES**
+
 -   **Vice president at Investment Circle@HKUST**
 2018-2020
 
